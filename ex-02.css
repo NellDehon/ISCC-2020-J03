@@ -2,8 +2,10 @@
 body 
 {
     color: darkslategrey;
-   
+    background: aliceblue;
+    padding: 10% 10% 10% 10%;
 }
+   
 @font-face {
     font-family: 'nasalization-rg';
     src: url('nasalization-rg.ttf');
@@ -30,10 +32,7 @@ h2 {
     
 }
 
-body { 
-    background: aliceblue;
-    padding: 0% 10%;
-}
+    
 
 .p1{
     border: 2px solid black;
